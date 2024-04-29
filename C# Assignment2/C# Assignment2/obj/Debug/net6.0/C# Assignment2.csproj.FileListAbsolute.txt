@@ -1,0 +1,14 @@
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\bin\Debug\net6.0\C# Assignment2.exe
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\bin\Debug\net6.0\C# Assignment2.deps.json
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\bin\Debug\net6.0\C# Assignment2.runtimeconfig.json
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\bin\Debug\net6.0\C# Assignment2.dll
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\bin\Debug\net6.0\C# Assignment2.pdb
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\C# Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\C# Assignment2.AssemblyInfoInputs.cache
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\C# Assignment2.AssemblyInfo.cs
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\C# Assignment2.csproj.CoreCompileInputs.cache
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\C# Assignment2.dll
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\refint\C# Assignment2.dll
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\C# Assignment2.pdb
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\C# Assignment2.genruntimeconfig.cache
+C:\Assignments\C# Assignment\C# Assignment2\C# Assignment2\obj\Debug\net6.0\ref\C# Assignment2.dll
